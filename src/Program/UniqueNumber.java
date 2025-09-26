@@ -7,7 +7,7 @@ public class UniqueNumber {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		int a[]= {4,5,5,4,5,9,6,6};
+		int a[]= {4,5,5,4,5,9,6,6,50};
 		ArrayList<Integer> ab = new ArrayList<Integer>();
 		for(int i=0;i<a.length;i++)
 		{
@@ -30,13 +30,7 @@ public class UniqueNumber {
 					System.out.println(a[i]+" is unique number");
 			}
 		}
-		
-		
-		
-		
-		
-		
-		
+			
 
 	}
 
